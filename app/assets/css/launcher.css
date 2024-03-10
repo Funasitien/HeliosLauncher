@@ -3155,6 +3155,17 @@ input:checked + .toggleSwitchSlider:before {
     fill: url('#instaFill')
 }
 
+/* Instagram icon colors. */
+#threadSVG:hover,
+#threadURL:focus #threadSVG {
+    fill: url('#instaFill')
+        /*fill: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%); */
+}
+
+#threadSVG:active {
+    fill: url('#instaFill')
+}
+
 /* Youtube icon colors. */
 #youtubeSVG:hover,
 #youtubeURL:focus #youtubeSVG {
@@ -3167,10 +3178,20 @@ input:checked + .toggleSwitchSlider:before {
 /* Discord icon colors. */
 #discordSVG:hover,
 #discordURL:focus #discordSVG {
-    fill: #7288d9;
+    fill: #5865f2;
 }
 #discordSVG:active {
-    fill: #657ac4;
+    fill: #5865f2;
+}
+
+/* Twitch icon colors. */
+#twitchSVG:hover,
+#twitchURL:focus #twitchSVG {
+    fill: #5865f2;
+}
+
+#twitchSVG:active {
+    fill: #5865f2;
 }
 
 /*******************************************************************************

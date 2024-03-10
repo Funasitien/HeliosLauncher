@@ -1,0 +1,21 @@
+# Custom Language File for Launcher Customizer
+
+[ejs.app]
+title = "DEMOCRAFT Launcher"
+
+[ejs.landing]
+mediaGitHubURL = "https://democraft.fr"
+mediaTwitterURL = "https://threads.net/democraftmc"
+mediaInstagramURL = "https://instagram.com/democraftmc"
+mediaYouTubeURL = "#"
+mediaDiscordURL = "https://dsc.gg/democraft"
+mediaTwitchURL = "https://twitch.tv/fdreamcloud"
+
+[ejs.settings]
+sourceGithubLink = "https://github.com/Funasitien/HermesLauncher"
+supportLink = "https://democraft.fr/support/tickets"
+
+[ejs.welcome]
+welcomeHeader = "BIENVENU SUR HERMES"
+welcomeDescription = "Pourquoi télécharger des dizaines de mods pour avoir une version de java non compatible ? Avec Hermes, jouez à DEMOCRAFT mais aussi à tout nos autres serveurs sans avoir à vous soucier d'optimisation ou de choisir la bonne version du jeu."
+welcomeDescCTA = "Jouez à DEMOCRAFT en un clique."
