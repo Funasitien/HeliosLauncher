@@ -149,7 +149,7 @@ function updateSelectedAccount(authUser){
             username = authUser.displayName
         }
         if(authUser.uuid != null){
-            document.getElementById('avatarContainer').style.backgroundImage = `url('https://starlightskins.lunareclipse.studio/skin-render/default/${authUser.uuid}/bust')`
+            document.getElementById('avatarContainer').style.backgroundImage = `url('https://starlightskins.lunareclipse.studio/render/default/${authUser.uuid}/bust')`
         }
     }
     user_text.innerHTML = username
