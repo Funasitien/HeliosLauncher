@@ -129,6 +129,9 @@ waitingText = "Chargement.."
 [ejs.welcome]
 continueButton = "CONTINUER"
 
+[js.index]
+microsoftLoginTitle = "Connexion Microsoft"
+microsoftLogoutTitle = "Microsoft Logout"
 
 [js.login]
 login = "CONNEXION"
